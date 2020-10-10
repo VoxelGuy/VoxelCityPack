@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FPPlayerController : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
 
     public float speed = 7.0f;
